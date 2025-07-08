@@ -2,6 +2,8 @@
 By Tamilpriyan M— AI & DS Student
 
 📌 Introduction
+
+
 In a world full of messages, not all of them are safe or useful. From promotional offers to phishing attempts, spam messages continue to be a growing problem. So I decided to build something simple, yet smart — a Spam Message Classifier that can detect not only spam messages but also phishing links, multilingual content, and provide confidence scores in real time.
 
 This blog shares my journey of building this AI-based tool using Python, Streamlit, and machine learning.
